@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @matejanajdanov
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning everything!
+- 📫 How to reach me matejanajdanov0@gmail.com
